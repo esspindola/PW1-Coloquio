@@ -190,6 +190,7 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: 28px;
   width: auto;
+  margin-top: 30px;
 }
 
 .feature-card {
